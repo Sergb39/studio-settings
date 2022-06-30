@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2021-06-03 00:58:37.007 1472-1655/? I/QosMonitor: resetRtt: rttType = 3" />
+        <option value="I/QosMonitor: queryRtt: rttType = 3" />
+      </list>
+    </option>
+  </component>
+</application>

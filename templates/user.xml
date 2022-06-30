@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="totot" value="android.util.Log.d(&quot;TOTOT&quot;,&quot;$TETXT$&quot;)" description="my test log" toReformat="false" toShortenFQNames="true">
+    <variable name="TETXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="recyclerAdapter" value="data class $name$Item(&#10;    val id: Int&#10;)&#10;&#10;class $name$ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {&#10;&#10;    companion object {&#10;        fun create(parent: ViewGroup) : $name$ViewHolder {&#10;            val view = LayoutInflater.from(parent.context).inflate(R.layout.item_$layout$, parent, false)&#10;            return $name$ViewHolder(view)&#10;        }&#10;    }&#10;&#10;    fun bind(item: $name$Item, position: Int) {&#10;        &#10;    }&#10;&#10;}&#10;&#10;class $name$Adapter : RecyclerView.Adapter&lt;$name$ViewHolder&gt;() {&#10;&#10;    var dataSet = emptyList&lt;$name$Item&gt;()&#10;&#10;    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): $name$ViewHolder {&#10;        return $name$ViewHolder.create(parent)&#10;    }&#10;&#10;    override fun onBindViewHolder(holder: $name$ViewHolder, position: Int) {&#10;        holder.bind(dataSet[position], position)&#10;    }&#10;&#10;    override fun getItemCount(): Int {&#10;        return dataSet.size&#10;    }&#10;&#10;}" description="add recycler adpter and view holder" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="layout" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
