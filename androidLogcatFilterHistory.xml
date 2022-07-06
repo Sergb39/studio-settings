@@ -2,20 +2,24 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:TOTOT" />
+        <option value="package:mine level:ERROR level:WARN " />
         <option value="package:mine tag:OkHttpClient" />
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine CollectionLayoutManager" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:OkHttpClient message:&lt;-- message:--&gt;" />
+        <option value="package:mine tag:TOTOT level:ERROR level:WARN " />
         <option value="package:mine tag:AnalyticsHelper" />
         <option value="package:mine CollectionLayoutManager" />
         <option value="package:mine " />
         <option value="package:mine tag:CollectionLayoutManager" />
         <option value="package:mine tag:CLM_CRASH_LOG" />
         <option value="package:mine tag:[PusherComponent] " />
-        <option value="package:mine tag:OkHttpClient message:&lt;-- message:--&gt;" />
         <option value="package:mine message:--&gt;" />
         <option value="logstash.sandbox.monday.beer" />
         <option value="logstash.monday.beer" />
@@ -26,9 +30,6 @@
         <option value="package:mine tag:OkHttp" />
         <option value="package:mine tag:StateMachine" />
         <option value="package:mine tag:state" />
-        <option value="package:mine --&gt;" />
-        <option value="package:mine &lt;--" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
