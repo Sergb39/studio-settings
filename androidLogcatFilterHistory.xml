@@ -3,12 +3,12 @@
     <option name="favorites">
       <list>
         <option value="package:mine tag:TOTOT" />
+        <option value="package:mine tag:LeakCanary" />
         <option value="package:mine level:ERROR level:WARN " />
         <option value="package:mine tag:OkHttpClient" />
-        <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT" />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR level:WARN " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
