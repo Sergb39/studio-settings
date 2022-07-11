@@ -8,10 +8,9 @@
         <option value="package:mine tag:OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:OkHttpClient message:--&gt;" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger -tag:FA" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:OkHttpClient message:--&gt;" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger -tag:FA" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper" />
@@ -31,6 +30,7 @@
         <option value="logstash.monday.beer" />
         <option value="package:mine logstash.monday.beer" />
         <option value="package:mine logstash.sandbox.monday.beer" />
+        <option value="package:mine message:--&gt; " />
       </list>
     </option>
   </component>
