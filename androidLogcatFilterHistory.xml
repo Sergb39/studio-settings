@@ -8,9 +8,14 @@
         <option value="package:mine tag:OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger -tag:FA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger -tag:FA" />
+        <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger" />
+        <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper" />
+        <option value="package:mine -tag:OkHttp -tag:LeakCanary" />
+        <option value="package:mine -tag:OkHttp" />
         <option value="package:mine" />
         <option value="package:mine tag:OkHttpClient message:&lt;-- message:--&gt;" />
         <option value="package:mine tag:TOTOT level:ERROR level:WARN " />
@@ -26,10 +31,6 @@
         <option value="package:mine logstash.monday.beer" />
         <option value="package:mine logstash.sandbox.monday.beer" />
         <option value="package:mine message:--&gt; " />
-        <option value="package:mine message:https://monday.monday.com/activity-log/events/board/activity &amp; message:--&gt;" />
-        <option value="package:mine tag:OkHttp" />
-        <option value="package:mine tag:StateMachine" />
-        <option value="package:mine tag:state" />
       </list>
     </option>
   </component>
