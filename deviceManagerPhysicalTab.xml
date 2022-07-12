@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R52T307MFZZ" />
-          </Key>
-        </key>
-        <name value="samsung SM-X800" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="1A021FDEE0010L" />
           </Key>
         </key>
         <name value="Google Pixel 6 Pro" />
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R52T307MFZZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-X800" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
