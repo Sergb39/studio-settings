@@ -8,9 +8,10 @@
         <option value="package:mine tag:OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR " />
         <option value="package:mine tag:OkHttpClient message:&lt;-- message:--&gt;" />
         <option value="package:mine tag:OkHttpClient &lt;--" />
         <option value="package:mine " />
@@ -30,7 +31,6 @@
         <option value="logstash.sandbox.monday.beer" />
         <option value="logstash.monday.beer" />
         <option value="package:mine logstash.monday.beer" />
-        <option value="package:mine logstash.sandbox.monday.beer" />
       </list>
     </option>
   </component>
