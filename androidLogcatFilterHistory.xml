@@ -8,13 +8,12 @@
         <option value="package:mine tag:OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:ERROR " />
         <option value="package:mine tag:OkHttpClient message:&lt;-- message:--&gt;" />
         <option value="package:mine tag:OkHttpClient &lt;--" />
-        <option value="package:mine " />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger -tag:FA" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper" />
