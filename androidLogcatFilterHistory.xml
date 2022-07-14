@@ -9,9 +9,10 @@
         <option value="package:mine tag:OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA" />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
         <option value="package:mine -tag:AnalyticsHelper" />
         <option value="package:mine tag:AnalyticsHelper" />
@@ -31,7 +32,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:TOTOT level:ERROR level:WARN " />
         <option value="package:mine CollectionLayoutManager" />
-        <option value="package:mine tag:CollectionLayoutManager" />
       </list>
     </option>
   </component>
