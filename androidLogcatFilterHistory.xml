@@ -12,8 +12,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag:TOTOT  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:TOTOT  " />
         <option value="package:mine level:ERROR" />
+        <option value="package:mine tag:TOTOT  " />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
         <option value="package:mine -tag:AnalyticsHelper" />
         <option value="package:mine tag:AnalyticsHelper" />
