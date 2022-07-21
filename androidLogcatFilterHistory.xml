@@ -9,9 +9,10 @@
         <option value="package:mine tag:OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT  " />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR level:WARN " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:ERROR" />
         <option value="package:mine tag:TOTOT  " />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
@@ -21,7 +22,6 @@
         <option value="package:mine --tag:" />
         <option value="package:mine tag:PUSER_DBG tag:PusherComponent" />
         <option value="package:mine tag:PUSER_DBG" />
-        <option value="package:mine " />
         <option value="package:mine level:ERROR " />
         <option value="package:mine tag:OkHttpClient message:&lt;-- message:--&gt;" />
         <option value="package:mine tag:OkHttpClient &lt;--" />
