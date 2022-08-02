@@ -9,15 +9,16 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:OkHttpClient &lt;--" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LOLOL" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LOLOL" />
+        <option value="package:mine " />
         <option value="package:mine tag:OkHttpClient &lt;--" />
         <option value="TOTOT" />
         <option value="package:mine TOTOT" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine tag:OkHttp" />
-        <option value="package:mine " />
         <option value="package:mine level:ERROR" />
         <option value="package:mine tag:TOTOT  " />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
@@ -31,7 +32,6 @@
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger -tag:FA" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper -tag:RemoteLogLogger" />
         <option value="package:mine -tag:OkHttp -tag:LeakCanary -tag:AnalyticsHelper" />
-        <option value="package:mine -tag:OkHttp -tag:LeakCanary" />
       </list>
     </option>
   </component>
