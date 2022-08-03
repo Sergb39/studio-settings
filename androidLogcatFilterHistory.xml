@@ -2,23 +2,23 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine tag:OkHttpClient" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA" />
+        <option value="package:mine tag:OkHttpClient" />
         <option value="package:mine level:ERROR level:WARN " />
         <option value="package:mine tag:TOTOT" />
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LOLOL" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:OkHttp" />
         <option value="package:mine tag:LOLOL" />
         <option value="package:mine " />
         <option value="package:mine tag:OkHttpClient &lt;--" />
         <option value="TOTOT" />
         <option value="package:mine TOTOT" />
         <option value="package:mine level:ERROR " />
-        <option value="package:mine tag:OkHttp" />
         <option value="package:mine level:ERROR" />
         <option value="package:mine tag:TOTOT  " />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
