@@ -8,9 +8,13 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:OkHttpClient &lt;-- " />
+    <option name="mostRecentlyUsed" value="package:mine [Dropdown]" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine [Dropdown]" />
+        <option value="package:mine tag:TOTOT " />
+        <option value="package:mine tag:TOTOT message~:[Dropdown]" />
+        <option value="package:mine tag:TOTOT tag:[Dropdown]" />
         <option value="package:mine tag:OkHttpClient &lt;-- " />
         <option value="package:mine tag:TOTOT" />
         <option value="package:mine tag:TOTOT  " />
@@ -27,10 +31,6 @@
         <option value="package:mine level:ERROR" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
         <option value="package:mine -tag:AnalyticsHelper" />
-        <option value="package:mine tag:AnalyticsHelper" />
-        <option value="package:mine -tag:Http" />
-        <option value="package:mine --tag:" />
-        <option value="package:mine tag:PUSER_DBG tag:PusherComponent" />
       </list>
     </option>
   </component>
