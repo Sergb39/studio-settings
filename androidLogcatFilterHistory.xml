@@ -10,6 +10,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR" />
         <option value="package:mine " />
         <option value="package:mine [Dropdown]" />
         <option value="package:mine tag:TOTOT " />
@@ -27,7 +28,6 @@
         <option value="TOTOT" />
         <option value="package:mine TOTOT" />
         <option value="package:mine level:ERROR " />
-        <option value="package:mine level:ERROR" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient" />
         <option value="package:mine -tag:AnalyticsHelper" />
       </list>
