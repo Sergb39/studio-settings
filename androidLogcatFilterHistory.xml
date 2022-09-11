@@ -8,9 +8,9 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine [Dropdown]" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine [Dropdown]" />
         <option value="package:mine tag:TOTOT " />
         <option value="package:mine tag:TOTOT message~:[Dropdown]" />
@@ -20,7 +20,6 @@
         <option value="package:mine tag:TOTOT  " />
         <option value="package:mine tag:PusherComponent" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine Pusher" />
         <option value="package:mine tag:OkHttp" />
         <option value="package:mine tag:LOLOL" />
