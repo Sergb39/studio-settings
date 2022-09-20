@@ -8,7 +8,7 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:OkHttpClient --&gt;" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:OkHttpClient --&gt;" />
