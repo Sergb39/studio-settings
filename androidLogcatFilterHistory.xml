@@ -8,11 +8,11 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ItemMoveToGroupApi" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:ItemMoveToGroupApi" />
         <option value="package:mine tag:TOTOT" />
+        <option value="package:mine tag:ItemMoveToGroupApi" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA -tag:TrafficStats" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA -tag:CrossBoardComposite" />
         <option value="package:mine tag:OkHttpClient &lt;-- " />
