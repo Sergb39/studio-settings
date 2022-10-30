@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine level:ERROR level:WARN " />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA" />
         <option value="package:mine tag:OkHttpClient" />
-        <option value="package:mine level:ERROR level:WARN " />
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
