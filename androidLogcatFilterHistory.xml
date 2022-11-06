@@ -8,9 +8,10 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LOLOL" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TOTOT" />
         <option value="package:mine level:ERROR" />
         <option value="package:mine tag:LOLOL" />
         <option value="package:mine TOTOT Data: map flatten" />
@@ -24,7 +25,6 @@
         <option value="package:mine TOTOT" />
         <option value="package:mine TOTOT for" />
         <option value="package:mine TOTOT TEst Test" />
-        <option value="package:mine tag:TOTOT" />
         <option value="package:mine LOLOL" />
         <option value="package:mine tag:ItemMoveToGroupApi" />
         <option value="package:mine -tag:AnalyticsHelper -tag:OkHttpClient -tag:FA -tag:TrafficStats" />
