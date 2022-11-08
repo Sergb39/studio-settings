@@ -8,9 +8,10 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:YOYOY" />
+    <option name="mostRecentlyUsed" value="package:mine YOYOY" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine YOYOY" />
         <option value="package:mine tag:YOYOY" />
         <option value="package:mine Data: addFootersDataForAdapter" />
         <option value="package:mine Data: addColumnValuesDataForAdapter" />
@@ -30,7 +31,6 @@
         <option value="package:mine TOTOT measure " />
         <option value="package:mine TOTOT " />
         <option value="package:mine TOTOT" />
-        <option value="package:mine TOTOT for" />
       </list>
     </option>
   </component>
