@@ -8,9 +8,10 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine tag:TOTOT" />
         <option value="package:mine tag:TOTOT " />
         <option value="package:mine KOKOK" />
@@ -30,7 +31,6 @@
         <option value="package:mine TOTOT Data: map flatten" />
         <option value="package:mine TOTOT - getSummarySpecificViewDataForPulseIdsList " />
         <option value="package:mine TOTOT - getSortedLabelsData " />
-        <option value="package:mine TOTOT - column footer  " />
       </list>
     </option>
   </component>
