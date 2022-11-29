@@ -8,9 +8,8 @@
             <value value="1A021FDEE0010L" />
           </Key>
         </key>
-        <name value="Google Pixel 6 Pro" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
