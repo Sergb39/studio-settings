@@ -8,9 +8,10 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag: TablePagedOffsetCalculator" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine tag: TablePagedOffsetCalculator" />
         <option value="package:mine tag:" />
         <option value="package:mine tag: [BoardPresenter]" />
@@ -18,7 +19,6 @@
         <option value="package:mine [BoardPresenter]" />
         <option value="package:mine " />
         <option value="package:mine tag:TOTOT" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:TOTOT " />
         <option value="package:mine KOKOK" />
         <option value="package:mine YOYOY: get getColumnService placeHolder" />
