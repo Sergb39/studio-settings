@@ -8,9 +8,10 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag: MirrorColumnDataCrawler" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MirrorColumnService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MirrorColumnService" />
         <option value="package:mine tag: MirrorColumnDataCrawler" />
         <option value="package:mine tag:PusherComponent" />
         <option value="package:mine level:ERROR" />
@@ -30,7 +31,6 @@
         <option value="package:mine level:ERROR level:warn " />
         <option value="package:mine tag:YOYOY" />
         <option value="package:mine Data: addFootersDataForAdapter" />
-        <option value="package:mine Data: addColumnValuesDataForAdapter" />
       </list>
     </option>
   </component>
