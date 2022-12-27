@@ -8,9 +8,13 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine :ZOZOZ" />
+    <option name="mostRecentlyUsed" value="package:mine tag:StrictMode" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:StrictMode" />
+        <option value="package:mine tag:" />
+        <option value="package:mine stri" />
+        <option value="package:mine ZOZOZ" />
         <option value="package:mine :ZOZOZ" />
         <option value="package:mine tag:ZOZOZ" />
         <option value="package:mine tag:YOYOY" />
@@ -25,12 +29,8 @@
         <option value="package:mine tag:PusherComponent" />
         <option value="package:mine level:ERROR" />
         <option value="package:mine level:error " />
-        <option value="package:mine tag:" />
         <option value="package:mine BoardPresenter" />
         <option value="package:mine [BoardPresenter]" />
-        <option value="package:mine " />
-        <option value="package:mine tag:TOTOT" />
-        <option value="package:mine tag:TOTOT " />
       </list>
     </option>
   </component>
