@@ -8,9 +8,12 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR | tag:FirebaseRemoteConfig" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ZOZOZ" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ZOZOZ" />
+        <option value="package:mine ZOZOZ" />
+        <option value="package:mine tag:YOYOY" />
         <option value="package:mine level:ERROR | tag:FirebaseRemoteConfig" />
         <option value="package:mine level:ERROR | tag:StarterService" />
         <option value="package:mine tag:[FirebaseRemoteConfig]" />
@@ -19,10 +22,7 @@
         <option value="package:mine tag:StrictMode" />
         <option value="package:mine tag:" />
         <option value="package:mine stri" />
-        <option value="package:mine ZOZOZ" />
         <option value="package:mine :ZOZOZ" />
-        <option value="package:mine tag:ZOZOZ" />
-        <option value="package:mine tag:YOYOY" />
         <option value="package:mine  Data: addColumnValuesDataForAdapter2" />
         <option value="package:mine  addColumnValuesDataForAdapter2" />
         <option value="package:mine  onBindViewHolder" />
