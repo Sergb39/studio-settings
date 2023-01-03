@@ -8,9 +8,10 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:IOIOI" />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR" />
         <option value="package:mine tag:IOIOI" />
         <option value="package:mine tag:ZOZOZ" />
         <option value="package:mine ZOZOZ" />
@@ -18,7 +19,6 @@
         <option value="package:mine level:ERROR | tag:FirebaseRemoteConfig" />
         <option value="package:mine level:ERROR | tag:StarterService" />
         <option value="package:mine tag:[FirebaseRemoteConfig]" />
-        <option value="package:mine level:ERROR" />
         <option value="package:mine tag:TOTOT" />
         <option value="package:mine tag:StrictMode" />
         <option value="package:mine tag:" />
