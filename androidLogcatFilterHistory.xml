@@ -11,6 +11,8 @@
     <option name="mostRecentlyUsed" value="package:mine NamesOnly" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:OkHttp" />
         <option value="package:mine NamesOnly" />
         <option value="package:mine AnalyticsHelper" />
         <option value="package:mine level:ERROR" />
@@ -29,8 +31,6 @@
         <option value="package:mine  Data: addColumnValuesDataForAdapter2" />
         <option value="package:mine  addColumnValuesDataForAdapter2" />
         <option value="package:mine  onBindViewHolder" />
-        <option value="package:mine tag: TablePagedOffsetCalculator" />
-        <option value="package:mine tag: [BoardPresenter]" />
       </list>
     </option>
   </component>
