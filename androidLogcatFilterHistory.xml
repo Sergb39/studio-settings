@@ -8,9 +8,12 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AnalyticsHelper namesOnly" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AnalyticsHelper namesOnly" />
+        <option value="package:mine namesOnly" />
+        <option value="package:mine tag:AnalyticsHelper" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:error level:warn " />
         <option value="package:mine " />
@@ -28,9 +31,6 @@
         <option value="package:mine tag:TOTOT" />
         <option value="package:mine tag:StrictMode" />
         <option value="package:mine tag:" />
-        <option value="package:mine stri" />
-        <option value="package:mine :ZOZOZ" />
-        <option value="package:mine  Data: addColumnValuesDataForAdapter2" />
       </list>
     </option>
   </component>
