@@ -8,11 +8,11 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT onLayoutChildren" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TOTOT " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:TOTOT onLayoutChildren" />
         <option value="package:mine tag:TOTOT " />
+        <option value="package:mine tag:TOTOT onLayoutChildren" />
         <option value="package:mine tag:AnalyticsHelper namesOnly" />
         <option value="package:mine namesOnly" />
         <option value="package:mine tag:AnalyticsHelper" />
