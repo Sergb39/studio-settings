@@ -8,9 +8,13 @@
         <option value="package:mine tag:LeakCanary" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="GC" />
+    <option name="mostRecentlyUsed" value="message~:WaitForGcToComplete" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:WaitForGcToComplete" />
+        <option value="package:mine tag:TOTOT" />
+        <option value="package:mine tag:T" />
+        <option value="package:mine level:error  " />
         <option value="GC" />
         <option value="tag:XOXOX | message~:WaitForGcToComplete" />
         <option value="WaitForGcToComplete" />
@@ -26,11 +30,7 @@
         <option value="package:mine  tag:BOBOB" />
         <option value="package:mine tag:TOTOT onLayoutChildren" />
         <option value="package:mine onLayoutChildren" />
-        <option value="package:mine tag:TOTOT" />
         <option value="package:mine tag:TOTOT " />
-        <option value="package:mine tag:AnalyticsHelper namesOnly" />
-        <option value="package:mine namesOnly" />
-        <option value="package:mine tag:AnalyticsHelper" />
       </list>
     </option>
   </component>
